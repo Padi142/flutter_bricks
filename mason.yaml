@@ -1,0 +1,5 @@
+bricks:
+  bloc:
+    path: bloc
+  feature:
+    path: feature
